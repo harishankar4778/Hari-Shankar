@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333333;
+  }
+  
+  .clock {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #time {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #alarm {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #setAlarmBtn {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  #setAlarmBtn:hover {
+    background-color: #555555;
+  }  
